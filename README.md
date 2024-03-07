@@ -1,5 +1,5 @@
 # MultiDimSPCI
-Official implementation of "Conformal prediction for multi-dimensional time series by ellipsoidal sets" (under review)
+Official implementation of [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850) (under review)
 
 Please direct implementation inquiries to cxu310@gatech.edu.
 
@@ -13,9 +13,14 @@ This work is built on our previous published work [Sequential Predictive Conform
 
 See [wind_2d.ipynb](https://github.com/hamrel-cxu/MultiDimSPCI/blob/main/wind_2d.ipynb) for a demonstration on 2d wind data.
 
-<!---
+
 If you find our work useful, please consider citing it
 ```
-To be filled
+@article{xu2024conformal,
+  title={Conformal prediction for multi-dimensional time series by ellipsoidal sets},
+  author={Xu, Chen and Jiang, Hanyang and Xie, Yao},
+  journal={arXiv preprint arXiv:2403.03850},
+  year={2024}
+}
 ```
---->
+
