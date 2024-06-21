@@ -1,5 +1,5 @@
 # MultiDimSPCI
-Official implementation of [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://arxiv.org/abs/2403.03850), which is accepted by ICML 2024.
+Official implementation of [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b), which is accepted by ICML 2024 (spotlight).
 
 Please direct implementation inquiries to cxu310@gatech.edu.
 
@@ -16,11 +16,10 @@ See [wind_2d.ipynb](https://github.com/hamrel-cxu/MultiDimSPCI/blob/main/wind_2d
 
 If you find our work useful, please consider citing it
 ```
-@article{xu2024conformal,
+@inproceedings{xuconformal,
   title={Conformal prediction for multi-dimensional time series by ellipsoidal sets},
   author={Xu, Chen and Jiang, Hanyang and Xie, Yao},
-  journal={arXiv preprint arXiv:2403.03850},
-  year={2024}
+  booktitle={Forty-first International Conference on Machine Learning}
 }
 ```
 
