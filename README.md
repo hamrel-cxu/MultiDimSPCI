@@ -1,7 +1,7 @@
 # MultiDimSPCI
-Official implementation of [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b), which is accepted by ICML 2024 (spotlight).
+Official implementation of [Conformal prediction for multi-dimensional time series by ellipsoidal sets](https://openreview.net/forum?id=uN39Tt9P8b), which is accepted by ICML 2024 (spotlight). [Slide](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/9/2055/files/2024/07/MultiDimSPCI_slide.pdf) and [Poster](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/9/2055/files/2024/07/MultiDimSPCI_poster.pdf) are also available.
 
-Please direct implementation inquiries to cxu310@gatech.edu.
+Please direct implementation inquiries to cxu310@gatech.edu. 
 
 ## Pre-requisites
 ```
